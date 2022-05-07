@@ -1,0 +1,500 @@
+{"question": "what does jamaican people speak?", "answer": ["Jamaican Creole English Language", "Jamaican English"]}
+{"question": "what did james k polk do before he was president?", "answer": ["Lawyer"]}
+{"question": "what is the oregon ducks 2012 football schedule?", "answer": ["University of Oregon"]}
+{"question": "who plays ken barlow in coronation street?", "answer": ["Tony Warren"]}
+{"question": "what happened after mr. sugihara died?", "answer": ["Yaotsu"]}
+{"question": "who did mozart write his four horn concertos for?", "answer": ["wolfgang amadeus mozart used story by pierre beaumarchais"]}
+{"question": "where is jamarcus russell from?", "answer": ["Mobile"]}
+{"question": "where was george washington carver from?", "answer": ["Diamond"]}
+{"question": "what else did ben franklin invent?", "answer": ["Lightning rod", "Franklin stove", "Bifocals", "Glass harmonica"]}
+{"question": "who was richard nixon married to?", "answer": ["Pat Nixon"]}
+{"question": "what country did germany invade first in ww1?", "answer": ["Belgium"]}
+{"question": "what is the best sandals resort in st lucia?", "answer": ["Micoud Quarter", "Choiseul Quarter", "Praslin Quarter", "Vieux Fort Quarter", "Castries Quarter", "Laborie Quarter", "Gros Islet Quarter", "Anse la Raye Quarter", "Dauphin Quarter", "Dennery Quarter"]}
+{"question": "who is governor of ohio 2011?", "answer": ["John Kasich"]}
+{"question": "who was vice president after kennedy died?", "answer": ["Lyndon B. Johnson"]}
+{"question": "where is the fukushima daiichi nuclear plant located?", "answer": ["Japan", "Okuma"]}
+{"question": "who is the minority leader of the house of representatives now?", "answer": ["Nancy Pelosi"]}
+{"question": "what countries are part of the uk?", "answer": ["Scotland", "England", "Wales", "Northern Ireland"]}
+{"question": "who plays bilbo baggins in the hobbit?", "answer": ["Norman Bird", "Martin Freeman", "Ian Holm"]}
+{"question": "what things did martin luther king do?", "answer": ["Civil rights movement", "Civil disobedience", "Nonviolence"]}
+{"question": "what is my timezone in louisiana?", "answer": ["Central Time Zone", "UTC\u221206:00"]}
+{"question": "what did st augustine do?", "answer": ["Physician", "Writer", "Philosopher"]}
+{"question": "who is keyshia cole dad?", "answer": ["Leon Cole"]}
+{"question": "what kind government does egypt have?", "answer": ["Semi-presidential system", "Constitutional republic", "Republic", "Unitary state"]}
+{"question": "what town was martin luther king assassinated in?", "answer": ["Memphis"]}
+{"question": "where did edgar allan poe died?", "answer": ["Baltimore"]}
+{"question": "when did charles goodyear invented rubber?", "answer": ["During the early 1830's he began inventing, filing six patents between 1830 and 1834, and during this period became interested in rubber, which he tried - unsuccessfully - to use in some of his mechanical inventions."]}
+{"question": "what to do today in atlanta with kids?", "answer": ["Atlanta History Center", "Atlanta Cyclorama & Civil War Museum", "Atlanta Ballet", "Fernbank Museum of Natural History", "Woodruff Arts Center", "Zoo Atlanta", "Atlanta Symphony Orchestra", "Centennial Olympic Park", "Martin Luther King, Jr., National Historic Site", "Fernbank Science Center"]}
+{"question": "who did france surrender to in ww2?", "answer": ["Germany"]}
+{"question": "what electorate does anna bligh represent?", "answer": ["Electoral district of South Brisbane"]}
+{"question": "what channel is the usa pageant on?", "answer": ["us"]}
+{"question": "what are some of the traditions of islam?", "answer": ["Zak\u0101t", "Salah", "Hajj", "Islamic dietary laws", "Mosque Carpet", "Jihad", "Sawm", "Halal food", "Shahada", "Adab"]}
+{"question": "where did andy murray started playing tennis?", "answer": ["United Kingdom"]}
+{"question": "what is the australian dollar called?", "answer": ["Australian dollar"]}
+{"question": "what timezone is sweden?", "answer": ["Central European Time"]}
+{"question": "who did cam newton sign with?", "answer": ["Carolina Panthers"]}
+{"question": "what county is frederick md in?", "answer": ["Frederick County"]}
+{"question": "what highschool did harper lee go to?", "answer": ["Monroe County High School"]}
+{"question": "what timezone is utah in?", "answer": ["Mountain Time Zone"]}
+{"question": "who did george w. bush run against for the second term?", "answer": ["Al Gore"]}
+{"question": "who is niall ferguson's wife?", "answer": ["Ayaan Hirsi Ali"]}
+{"question": "who was the leader of soviet union during wwii?", "answer": ["Joseph Stalin"]}
+{"question": "where is the galapagos islands located on a world map?", "answer": ["Pacific Ocean", "Gal\u00e1pagos Province"]}
+{"question": "what are the songs that justin bieber wrote?", "answer": ["Catching Feelings", "Down to Earth", "Beauty and a Beat", "All Around The World (featuring Ludacris)", "Die in Your Arms", "As Long As You Love Me (featuring Big Sean)", "Baby", "Believe", "Be Alright", "Boyfriend"]}
+{"question": "what did george clemenceau do?", "answer": ["Newspaper", "Physician", "Statesman", "Publisher"]}
+{"question": "what is the state flower of arizona?", "answer": ["Saguaro"]}
+{"question": "where was rihanna born and raised?", "answer": ["Saint Michael Parish", "Barbados"]}
+{"question": "what year did president william henry harrison take office?", "answer": ["3/4/1841"]}
+{"question": "where george lopez was born?", "answer": ["Mission Hills"]}
+{"question": "where are samsung based?", "answer": ["Seoul"]}
+{"question": "what did the islamic people believe in?", "answer": ["Zak\u0101t", "Salah", "Hajj", "Islamic dietary laws", "Jihad", "Sawm", "Halal food", "Shahada", "Adab"]}
+{"question": "what did the scientist chadwick discovered?", "answer": ["Neutron"]}
+{"question": "who will play mr gray in the film?", "answer": ["Karen Mulder"]}
+{"question": "what did george orwell died of?", "answer": ["Tuberculosis"]}
+{"question": "who won the battle of gettysburg union or confederate?", "answer": ["Union"]}
+{"question": "what country did adolf hitler control?", "answer": ["Germany"]}
+{"question": "who is michael buble?", "answer": ["Singer", "Actor", "Singer-songwriter"]}
+{"question": "what county is kansas city kansas?", "answer": ["Wyandotte County"]}
+{"question": "what was john quincy adams famous for?", "answer": ["Secretary of State", "President", "Ambassador", "Member of Congress", "Senator"]}
+{"question": "who did jackie robinson first play for?", "answer": ["Montreal Royals", "Kansas City Monarchs", "Los Angeles Bulldogs", "Brooklyn Dodgers", "UCLA Bruins football"]}
+{"question": "when did annie open?", "answer": ["Annie (1977 original Broadway cast)"]}
+{"question": "where did eleanor roosevelt die?", "answer": ["New York City"]}
+{"question": "what are the religions practiced in indonesia?", "answer": ["Protestantism", "Hinduism", "Catholicism", "Islam"]}
+{"question": "what was jesse james killed with?", "answer": ["Assassination", "Firearm"]}
+{"question": "who was vp for lincoln?", "answer": ["Andrew Johnson", "Hannibal Hamlin"]}
+{"question": "what other books did charles dickens write?", "answer": ["The Chimes", "Our Mutual Friend", "The Old Curiosity Shop", "David Copperfield", "A Christmas Carol", "The Cricket on the Hearth", "The Life and Adventures of Nicholas Nickleby", "Hard Times", "Oliver Twist", "A Tale of Two Cities"]}
+{"question": "who was the first dictator of the soviet union?", "answer": ["Joseph Stalin"]}
+{"question": "what is the currency of puerto rico called?", "answer": ["United States dollar"]}
+{"question": "what kind of cancer did carl wilson have?", "answer": ["Lung cancer"]}
+{"question": "who plays the voice of kitt in knight rider?", "answer": ["William Daniels"]}
+{"question": "what county is brentwood tennessee in?", "answer": ["Williamson County"]}
+{"question": "who is moira en x men?", "answer": ["Mutant"]}
+{"question": "who did michael j fox marry?", "answer": ["Tracy Pollan"]}
+{"question": "what battles did stonewall jackson fight in?", "answer": ["Battle of Manassas Station Ops.", "Battle of McDowell", "Battle of Port Republic", "Battle of Rappahannock Station I", "Battle of Chancellorsville", "Battle of Front Royal", "Battle of Hoke's Run", "Battle of Cedar Mountain", "First Battle of Winchester", "Battle of Hancock"]}
+{"question": "what language do the maasai tribe speak?", "answer": ["Maasai Language"]}
+{"question": "who did benjamin franklin get married to?", "answer": ["Deborah Read"]}
+{"question": "what disease did patrick swayze died from?", "answer": ["Pancreatic cancer"]}
+{"question": "what works of art did leonardo da vinci produce?", "answer": ["Ginevra de' Benci", "The Last Supper", "The Virgin and Child with St Anne and St John the Baptist", "Mona Lisa", "Benois Madonna", "Madonna Litta", "Lady with an Ermine", "St. John the Baptist", "The Virgin and Child with St. Anne", "Annunciation"]}
+{"question": "what capital of austria?", "answer": ["Vienna"]}
+{"question": "what type of cancer did eva peron have?", "answer": ["Cervical cancer"]}
+{"question": "what country did buddha come from?", "answer": ["India"]}
+{"question": "what county is greeley colorado in?", "answer": ["Weld County"]}
+{"question": "where is the ellen degenerous show filmed?", "answer": ["Beverly Hills"]}
+{"question": "what did peter tchaikovsky do?", "answer": ["Composer"]}
+{"question": "which countries speak german officially?", "answer": ["Canada", "German Democratic Republic", "Luxembourg", "Switzerland", "Liechtenstein", "Germany", "West Germany", "Belgium", "Vatican City", "Second Polish Republic"]}
+{"question": "what type of music did john lennon sing?", "answer": ["Experimental rock", "Pop rock", "Pop music", "Blues-rock", "Art rock", "Soft rock", "Psychedelic rock", "Rock music", "Experimental music"]}
+{"question": "who are the colorado representatives?", "answer": ["Wayne Allard", "Ken Salazar", "Gordon L. Allott", "Hank Brown", "Edwin C. Johnson", "William L. Armstrong", "Floyd K. Haskell", "Mark Udall", "Michael Bennet"]}
+{"question": "which country does greenland belong to?", "answer": ["Denmark"]}
+{"question": "what the zip code for seattle washington?", "answer": ["98109", "98108", "98105", "98104", "98107", "98106", "98101", "98103", "98102", "98117"]}
+{"question": "who is willow smith mom name?", "answer": ["Jada Pinkett Smith"]}
+{"question": "what do you call the chinese writing system?", "answer": ["Standard Mandarin"]}
+{"question": "who played on the jeffersons?", "answer": ["Isabel Sanford", "Marla Gibbs", "Sherman Hemsley"]}
+{"question": "what is the name of the san francisco newspaper?", "answer": ["The San Francisco Examiner", "California Star", "San Francisco Bay Guardian", "San Francisco Business Times", "San Francisco Bay Times", "San Francisco Chronicle", "Bay Area Reporter", "Sing Tao Daily", "AsianWeek", "San Francisco Call"]}
+{"question": "what made the soviet union fall?", "answer": ["Cold War"]}
+{"question": "what continent does armenia belong to?", "answer": ["Eurasia"]}
+{"question": "what did randy savage died of?", "answer": ["Myocardial infarction", "Traffic collision"]}
+{"question": "what was the title of the book charles darwin wrote?", "answer": ["The Structure and Distribution of Coral Reefs", "On evolution", "A student's introduction to Charles Darwin", "Climbing Plants", "The Expression of the Emotions in Man and Animals", "The origin of species : complete and fully illustrated", "The Origin of Species", "The Life of Erasmus Darwin", "The Autobiography of Charles Darwin", "The Descent of Man, and Selection in Relation to Sex"]}
+{"question": "where did richard nixon die?", "answer": ["New York City"]}
+{"question": "what songs does smokey robinson sing?", "answer": ["Being With You", "Cruisin'", "Crusin'", "And I Love Her", "The Tracks of My Tears", "Quiet Storm", "Tracks of my Tears", "Santa Claus is Coming to Town"]}
+{"question": "who was vice president when jfk was president?", "answer": ["Lyndon B. Johnson"]}
+{"question": "what is serbian language called?", "answer": ["Serbian language"]}
+{"question": "what language is spoken in haiti today?", "answer": ["French Language", "Haitian Creole French Language"]}
+{"question": "what are the names of the city states in ancient greece?", "answer": ["Athens"]}
+{"question": "who played barbara gordon batgirl?", "answer": ["Alicia Silverstone"]}
+{"question": "what basketball teams has shaq played for?", "answer": ["Boston Celtics", "Miami Heat", "LSU Tigers men's basketball", "Los Angeles Lakers", "Orlando Magic"]}
+{"question": "where is jay leno from?", "answer": ["New Rochelle"]}
+{"question": "what language do people from thailand speak?", "answer": ["Mon Language", "Lao Language", "Khmer language", "Hmong language", "Thai Language", "Cham language", "Mlabri language", "Malay, Pattani Language", "Nyaw Language", "Saek language"]}
+{"question": "who did armie hammer play in the social network?", "answer": ["Jesse Eisenberg"]}
+{"question": "what was thomas jefferson role in the declaration of independence?", "answer": ["Writer"]}
+{"question": "what was the book written by charles darwin?", "answer": ["The Structure and Distribution of Coral Reefs", "On evolution", "A student's introduction to Charles Darwin", "Climbing Plants", "The Expression of the Emotions in Man and Animals", "The origin of species : complete and fully illustrated", "The Origin of Species", "The Life of Erasmus Darwin", "The Autobiography of Charles Darwin", "The Descent of Man, and Selection in Relation to Sex"]}
+{"question": "who did tim tebow play college football for?", "answer": ["University of Florida"]}
+{"question": "who does peyton manning play football for?", "answer": ["Denver Broncos"]}
+{"question": "where is the carpathian mountain range located?", "answer": ["Ukraine", "Europe", "Romania", "Czech Republic", "Poland", "Serbia", "Slovakia", "Hungary"]}
+{"question": "what was robert burns?", "answer": ["Poet", "Writer", "Bard", "Author"]}
+{"question": "what did anton van leeuwenhoek contribute to our knowledge of cells?", "answer": ["microscope first used by anton van leeuwenhoek"]}
+{"question": "who did the voice of darth vader in episode 3?", "answer": ["Hayden Christensen"]}
+{"question": "what super bowl did peyton manning win?", "answer": ["2006 NFL season"]}
+{"question": "which country was justin bieber born in?", "answer": ["Canada"]}
+{"question": "where are yamaha outboard motors manufactured?", "answer": ["Shizuoka Prefecture"]}
+{"question": "who fought in the gulf war 1991?", "answer": ["Saudi Arabia", "Australia", "United States of America", "France", "United Kingdom", "Argentina", "Iraq"]}
+{"question": "who plays london tipton in suite life on deck?", "answer": ["Brenda Song"]}
+{"question": "what was the ancient chinese writing system?", "answer": ["Sino-Tibetan languages"]}
+{"question": "what team did david beckham play for in 2011?", "answer": ["LA Galaxy"]}
+{"question": "where did francisco coronado come from?", "answer": ["Salamanca"]}
+{"question": "what all does google now do?", "answer": ["Google Maps", "Nexus 7", "Google Buzz", "Nexus 10", "Nexus One", "Nexus S", "Google Chrome", "Google Earth", "Google Wave"]}
+{"question": "what language does egyptian people speak?", "answer": ["Modern Standard Arabic"]}
+{"question": "what are abraham sons names?", "answer": ["Zimran", "Ishbak", "Midian", "Shuah", "Ishmael", "Jokshan", "Isaac", "Medan"]}
+{"question": "who wrote the jana gana mana?", "answer": ["Ram Singh Thakur", "Rabindranath Tagore"]}
+{"question": "what type of cancer did gilda radner die of?", "answer": ["Ovarian cancer"]}
+{"question": "who plays juni cortez?", "answer": ["Daryl Sabara"]}
+{"question": "what was lucille ball?", "answer": ["Singer", "Model", "Comedian", "Television Producer", "Actor"]}
+{"question": "who did carrie ann inaba get engaged to?", "answer": ["Jesse Sloan"]}
+{"question": "who inspired obama?", "answer": ["Saul Alinsky", "Nipsey Russell"]}
+{"question": "who is michael j fox wife?", "answer": ["Tracy Pollan"]}
+{"question": "where did dolly parton grow up?", "answer": ["Tennessee"]}
+{"question": "what type of books did agatha christie wrote?", "answer": ["Crime writer"]}
+{"question": "who is the woman that john edwards had an affair with?", "answer": ["Rielle Hunter"]}
+{"question": "what is jimi hendrix purple haze about?", "answer": ["Drug overdose"]}
+{"question": "where can i go running in sacramento?", "answer": ["Boulevard Park"]}
+{"question": "what are the four main languages spoken in spain?", "answer": ["Basque Language", "Galician Language", "Catalan language", "Occitan language"]}
+{"question": "where is the nra headquarters located?", "answer": ["Fairfax"]}
+{"question": "what is the song anna kendrick sings in pitch perfect?", "answer": ["Cups"]}
+{"question": "who is gimli's father in the hobbit?", "answer": ["Gloin"]}
+{"question": "who developed the tcp ip reference model?", "answer": ["Robert E. Kahn", "Vint Cerf"]}
+{"question": "who led the campaign in the shenandoah valley?", "answer": ["Jackson's Valley Campaign"]}
+{"question": "who founded the pittsburgh steelers in 1933?", "answer": ["Rooney family"]}
+{"question": "what college did albert einstein go to?", "answer": ["University of Zurich", "Aargau Cantonal School", "ETH Zurich", "Luitpold Gymnasium"]}
+{"question": "what team does jordan own?", "answer": ["Jordan national football team"]}
+{"question": "who is the state governor of tennessee?", "answer": ["Bill Haslam"]}
+{"question": "who is eli whitney and what did he invent?", "answer": ["Cotton gin"]}
+{"question": "what do portuguese people speak?", "answer": ["Portuguese"]}
+{"question": "what language does cuba speak?", "answer": ["Spanish Language"]}
+{"question": "where did aaron rodgers go to high school?", "answer": ["Pleasant Valley High School"]}
+{"question": "where herman cain stance on the issues?", "answer": ["\u00c9vocateur: The Morton Downey Jr. Movie"]}
+{"question": "what are the sights to see in madrid?", "answer": ["Paseo del Prado", "Thyssen-Bornemisza Museum", "Almudena Cathedral", "Plaza de Cibeles", "Puerta del Sol", "Royal Palace of Madrid", "Museo de Lazaro Galdiano", "Gran V\u00eda", "Museo Nacional Centro de Arte Reina Sof\u00eda", "Plaza Mayor, Madrid"]}
+{"question": "what instruments did louis armstrong play?", "answer": ["trumpet", "Cornet"]}
+{"question": "what year was george w bush elected?", "answer": ["George W. Bush presidential campaign, 2000"]}
+{"question": "what time zone am i in california?", "answer": ["Pacific Time Zone", "UTC-8"]}
+{"question": "where is mission san buenaventura located?", "answer": ["Ventura County"]}
+{"question": "who was the italian leader in ww1?", "answer": ["Benito Mussolini"]}
+{"question": "what time in hilo hawaii?", "answer": ["Hawaii\u2013Aleutian Time Zone"]}
+{"question": "where did rudolf virchow conduct his research?", "answer": ["Humboldt University of Berlin", "University of W\u00fcrzburg"]}
+{"question": "what university did gordon brown attend?", "answer": ["University of Edinburgh"]}
+{"question": "what countries does greece share borders with?", "answer": ["Turkey", "Republic of Macedonia", "Albania", "Lake Prespa", "Bulgaria"]}
+{"question": "what year did the seahawks win the superbowl?", "answer": ["2006 NFL season"]}
+{"question": "what did stephen hawking become famous for?", "answer": ["Author", "Mathematician", "Professor", "Writer", "Cosmologist", "Physicist", "Actor", "Astronomer", "Scientist", "Science writer"]}
+{"question": "who plays donna noble?", "answer": ["Catherine Tate"]}
+{"question": "what was dr seuss education?", "answer": ["Dartmouth College", "University of Oxford", "Lincoln College, Oxford"]}
+{"question": "where did queensland get its name from?", "answer": ["Queen Victoria"]}
+{"question": "what document did james madison write?", "answer": ["The Federalist Papers", "The Papers of James Madison: Presidential Series", "The Papers of James Madison: Congressional Series", "The Papers of James Madison: Secretary of State Series", "The Papers of James Madison", "The Papers of James Madison: Retirement Series"]}
+{"question": "what are the three official languages of belgium?", "answer": ["French Language", "German Language", "Dutch Language"]}
+{"question": "who played bilbo in lord of the rings?", "answer": ["Norman Bird", "Martin Freeman", "Ian Holm"]}
+{"question": "what airport do you fly into to get to destin fl?", "answer": ["Northwest Florida Regional Airport", "Destin\u2013Fort Walton Beach Airport"]}
+{"question": "what do you call members of the senate?", "answer": ["Senator"]}
+{"question": "what countries are part of the baltic?", "answer": ["Latvia", "Lithuania", "Estonia"]}
+{"question": "what team does colin kaepernick play for?", "answer": ["San Francisco 49ers"]}
+{"question": "where did joe flacco attend college?", "answer": ["University of Delaware"]}
+{"question": "who is emma stone father?", "answer": ["Jeff Stone"]}
+{"question": "where was theodore roosevelt buried?", "answer": ["Youngs Memorial Cemetery"]}
+{"question": "who was the leader of the us during wwii?", "answer": ["Gerald Ford"]}
+{"question": "what artistic movement did henri matisse belong to?", "answer": ["Fauvism", "Impressionism", "Neo-impressionism", "Modernism"]}
+{"question": "where the missouri river ends?", "answer": ["Mississippi River"]}
+{"question": "what type of currency do they use in thailand?", "answer": ["Thai baht"]}
+{"question": "who is khloe kardashian's husband?", "answer": ["Lamar Odom"]}
+{"question": "what years did romney serve as governor?", "answer": ["1/2/2003"]}
+{"question": "what state does romney live in?", "answer": ["Massachusetts"]}
+{"question": "what type of government does france use?", "answer": ["Semi-presidential system", "Constitutional republic", "Unitary state"]}
+{"question": "who rules denmark right now?", "answer": ["Helle Thorning-Schmidt"]}
+{"question": "what did stephen hawking study?", "answer": ["Physics"]}
+{"question": "where did bristol palin go to school?", "answer": ["Wasilla High School", "West Anchorage High School", "Juneau-Douglas High School"]}
+{"question": "what region of the world is egypt associated with?", "answer": ["Middle East"]}
+{"question": "what did dr. seuss do?", "answer": ["Writer"]}
+{"question": "where did drew brees go to college wikianswers?", "answer": ["Purdue University"]}
+{"question": "what are republicans views on health care?", "answer": ["20003"]}
+{"question": "what school did ben roethlisberger go to?", "answer": ["Miami University"]}
+{"question": "where did the iroquois indians come from?", "answer": ["Qu\u00e9bec"]}
+{"question": "what kind of guitar did george harrison use?", "answer": ["Fender Stratocaster", "Rickenbacker 360/12"]}
+{"question": "what language do navajo people speak?", "answer": ["Spanish Language", "Navajo Language", "English Language"]}
+{"question": "what places make up new england?", "answer": ["Maine"]}
+{"question": "what are the landlocked countries in latin america?", "answer": ["Bolivia", "Honduras", "Cuba", "El Salvador", "Guatemala", "Costa Rica", "Cuauht\u00e9moc, D.F.", "Great Pyramid of Tenochtitl\u00e1n", "Paraguay", "Belize"]}
+{"question": "what type of government does iraq have now?", "answer": ["Parliamentary system", "Federation", "Republic", "Federal republic", "Parliamentary republic"]}
+{"question": "where was the vietnam war location?", "answer": ["South Vietnam", "North Vietnam", "Southeast Asia", "Cambodia", "Vietnam", "Laos"]}
+{"question": "who did gerald ford select as his vice president when he became president?", "answer": ["Nelson Rockefeller"]}
+{"question": "what is the currency used in italy?", "answer": ["Euro"]}
+{"question": "who is jamie little engaged to?", "answer": ["Cody Selman"]}
+{"question": "what is the capital of modern egypt?", "answer": ["Cairo"]}
+{"question": "what school did sir ernest rutherford go to?", "answer": ["Trinity College, Cambridge", "Nelson College", "University of Canterbury", "University of Cambridge", "University of New Zealand"]}
+{"question": "what position does brandon roy play?", "answer": ["Point guard", "Small forward", "Shooting guard"]}
+{"question": "where is harvard university?", "answer": ["Massachusetts"]}
+{"question": "what does janelle brown work?", "answer": ["Actor"]}
+{"question": "where is laos in world map?", "answer": ["Cambodia"]}
+{"question": "where is tyrese gibson from?", "answer": ["Watts"]}
+{"question": "what countries are near italy?", "answer": ["Switzerland", "Slovenia", "Austria", "France"]}
+{"question": "which states does the colorado river run through?", "answer": ["Utah", "Arizona", "Nevada", "California", "Colorado"]}
+{"question": "who did scarlett johansson date?", "answer": ["Justin Timberlake", "Josh Hartnett", "Benicio del Toro", "Jared Leto", "Derek Jeter"]}
+{"question": "which continents were part of the roman empire?", "answer": ["Europe", "North Africa", "Middle East"]}
+{"question": "where was elvis costello born?", "answer": ["Paddington"]}
+{"question": "where are the gobi desert located on a map?", "answer": ["Mongolia"]}
+{"question": "what type of government does the us follow?", "answer": ["Presidential system", "Federal republic", "Representative democracy", "Two-party system", "Constitutional republic", "Republic"]}
+{"question": "in which continent is germany?", "answer": ["Europe"]}
+{"question": "when did the wright brothers created their first plane?", "answer": ["1900 Wright Glider"]}
+{"question": "what language turkey people speak?", "answer": ["Turkish Language"]}
+{"question": "who does jeremy lin play for?", "answer": ["Houston Rockets"]}
+{"question": "where is the seychelles on world map?", "answer": ["Africa"]}
+{"question": "what is the average temperature in phoenix az in december?", "answer": ["Phoenix should not be contained in Maricopa County."]}
+{"question": "where did william morris go to college?", "answer": ["Marlborough College", "Exeter College, Oxford", "University of Oxford"]}
+{"question": "what state is mount st. helens in?", "answer": ["Washington"]}
+{"question": "who is jimmy savile?", "answer": ["Presenter"]}
+{"question": "where were the seneca indians located?", "answer": ["New York"]}
+{"question": "what is william taft known for?", "answer": ["President of the United States"]}
+{"question": "what state is washington d.c. located?", "answer": ["Washington", "Washington, D.C."]}
+{"question": "where to exchange euros in new york city?", "answer": ["John F. Kennedy International Airport"]}
+{"question": "when did florida marlins join mlb?", "answer": ["1993 Major League Baseball Season"]}
+{"question": "what countries have spanish as the national language?", "answer": ["Spain"]}
+{"question": "what to see in phoenix arizona?", "answer": ["Grand Canyon", "Phoenix Mountain Preserve", "Phoenix Art Museum", "Desert Botanical Garden", "Heard Museum", "Musical Instrument Museum", "Arizona Science Center", "Ro Ho En", "Mesa Arts Center", "Pueblo Grande Ruin"]}
+{"question": "what countries does the panama canal go through?", "answer": ["Panama Canal Zone"]}
+{"question": "what is charlie chaplin famous for?", "answer": ["Comedian"]}
+{"question": "who did paul revere marry?", "answer": ["Sarah Revere"]}
+{"question": "what did fred durst do?", "answer": ["Musician"]}
+{"question": "who did the chargers draft in 2011?", "answer": ["Frank Summers"]}
+{"question": "where do american bulldogs originate from?", "answer": ["United States of America"]}
+{"question": "what colleges did albert einstein teach at?", "answer": ["School of Mathematics, Institute for Advanced Study", "Humboldt University of Berlin Department of Physics"]}
+{"question": "who plays the voice of brian on family guy?", "answer": ["Seth MacFarlane"]}
+{"question": "what make of bike did steve mcqueen ride in the great escape?", "answer": ["Yucatan"]}
+{"question": "where did george w bush live as a child?", "answer": ["New Haven"]}
+{"question": "which dawkins book to read first?", "answer": ["The Selfish Gene"]}
+{"question": "what year was the first miss america pageant held?", "answer": ["1930 Miss America"]}
+{"question": "what was nikola tesla inventions?", "answer": ["Tesla coil"]}
+{"question": "where did flemish people come from?", "answer": ["Belgium"]}
+{"question": "what state new york city belong to?", "answer": ["New York"]}
+{"question": "what was the cause of death for bruce lee?", "answer": ["Cerebral edema"]}
+{"question": "what type of government does usa follow?", "answer": ["Federal republic"]}
+{"question": "what type of currency do they use in england?", "answer": ["UK \u00a3"]}
+{"question": "where was benjamin franklin educated?", "answer": ["Boston Latin School"]}
+{"question": "what countries included in the uk?", "answer": ["Scotland", "England", "Wales", "Northern Ireland"]}
+{"question": "what countries in the world speak chinese?", "answer": ["Canada", "Brunei", "Singapore", "Malaysia", "Sh\u011bn", "Vietnam", "China"]}
+{"question": "where obama went to school?", "answer": ["Occidental College", "Harvard Law School", "Noelani Elementary School", "Punahou School", "State Elementary School Menteng 01", "St. Francis of Assisi Catholic School", "Columbia University"]}
+{"question": "what is the primary language of china?", "answer": ["Standard Mandarin"]}
+{"question": "who was the soviet leader during world war ii?", "answer": ["Alexei Negmatov"]}
+{"question": "which of the following does australia export the most?", "answer": ["Energy", "Agriculture"]}
+{"question": "where was david berkowitz arrested?", "answer": ["New York City"]}
+{"question": "where was the city of david?", "answer": ["Bethlehem"]}
+{"question": "what is cindy sherman known for?", "answer": ["Photographer"]}
+{"question": "what tv shows did shawnee smith play in?", "answer": ["Anger Management", "The Tom Show", "Scream Queens", "Brand New Life", "30 Days of Night: Dust to Dust", "Arsenio", "Becker", "The Stand", "All is Forgiven"]}
+{"question": "what are aristotle's contributions to science?", "answer": ["Politics", "Ethics", "Aesthetics", "Metaphysics"]}
+{"question": "what does australia use for currency?", "answer": ["Australian dollar"]}
+{"question": "which airport to fly into rome?", "answer": ["Ciampino \u2013 G.B. Pastine International Airport", "Roma Termini railway station", "Civitavecchia Ferry Terminal", "Leonardo da Vinci\u2013Fiumicino Airport"]}
+{"question": "what is there to do for fun in kansas city?", "answer": ["Kemper Arena", "Starlight Theatre", "Kauffman Stadium", "Municipal Stadium", "Ward Parkway Center", "Arrowhead Stadium", "Blue Ridge Mall", "Blue Ridge Crossing", "Crown Center", "TWA Corporate Headquarters' Building"]}
+{"question": "where was martin luther king jr raised?", "answer": ["Atlanta"]}
+{"question": "what year was lebron james rookie season?", "answer": ["2003\u201304 NBA season"]}
+{"question": "where does delaware river start?", "answer": ["West Branch Delaware River", "Mount Jefferson"]}
+{"question": "what kind of monarchy does japan have?", "answer": ["Constitutional monarchy"]}
+{"question": "where did mitt romney's parents come from?", "answer": ["Bloomfield Hills"]}
+{"question": "what places in japan were bombed?", "answer": ["Hiroshima Prefecture"]}
+{"question": "when did michael jordan return to the nba?", "answer": ["2001\u201302 NBA season"]}
+{"question": "what type of economy exists in china?", "answer": ["Socialist state"]}
+{"question": "what is the currency in egypt 2012?", "answer": ["Egyptian pound"]}
+{"question": "where was mission san rafael located?", "answer": ["California"]}
+{"question": "who was esther's husband?", "answer": ["Susa"]}
+{"question": "who's dating claire danes?", "answer": ["Hugh Dancy"]}
+{"question": "what county is st paul va in?", "answer": ["United States of America", "Wise County", "Russell County", "Virginia"]}
+{"question": "what produce does florida export?", "answer": ["Orange juice"]}
+{"question": "what type of sports do japanese play?", "answer": ["Japan national football team", "Japan women's national handball team", "Japan men's national volleyball team", "Japan national handball team", "Japan women's national volleyball team", "Japan national baseball team"]}
+{"question": "which countries share a border with russia?", "answer": ["Ukraine", "Belarus", "Kazakhstan", "Poland", "Lithuania", "Azerbaijan", "Mongolia", "North Korea", "Georgia", "Norway"]}
+{"question": "what did drita find out?", "answer": ["Football Superleague of Kosovo"]}
+{"question": "where did the latin language originate from?", "answer": ["Italic languages", "Indo-European languages"]}
+{"question": "when does the mayan calendar end exactly?", "answer": ["2012"]}
+{"question": "what school did karl benz go to?", "answer": ["Karlsruhe Institute of Technology", "University of Karlsruhe"]}
+{"question": "what movies has carmen electra been in?", "answer": ["The Mating Habits of the Earthbound Human", "Scary Movie", "Getting Played", "Cheaper by the Dozen 2", "Meet the Spartans", "I Want Candy", "Full of It", "The Chosen One: Legend of the Raven", "Scary Movie 4", "Dirty Love"]}
+{"question": "when does jewish new year start?", "answer": ["Yiddish Language"]}
+{"question": "when do world war ii end?", "answer": ["1942"]}
+{"question": "what do christians believe about heaven hell and purgatory?", "answer": ["Greek Evangelical Church", "The Church of Nails"]}
+{"question": "where did morgan freeman graduate?", "answer": ["Jackson State University", "Los Angeles City College"]}
+{"question": "who did queen elizabeth 1 executed?", "answer": ["queen elizabeth i of england she executed mary queen of scots"]}
+{"question": "where is arabic most spoken?", "answer": ["Saudi Arabia"]}
+{"question": "who was carolus linnaeus?", "answer": ["Botanist"]}
+{"question": "what type of government does germany have now?", "answer": ["Constitutional republic", "Multi-party system", "Federal republic", "Democracy", "Parliamentary republic"]}
+{"question": "what kind of government does libya have today?", "answer": ["Provisional government", "Parliamentary republic"]}
+{"question": "what time zone is anaheim california?", "answer": ["Pacific Time Zone"]}
+{"question": "what year did the orioles go to the world series?", "answer": ["1983 World Series", "1966 World Series", "1970 World Series"]}
+{"question": "what would ap xin zhao do?", "answer": ["Male"]}
+{"question": "who is sir francis bacon?", "answer": ["Philosopher"]}
+{"question": "what were amelia earhart's achievements?", "answer": ["Writer", "Pilot"]}
+{"question": "what are the official colors of the dallas cowboys?", "answer": ["Blue", "Royal blue", "White", "Silver", "Navy Blue"]}
+{"question": "where did margaret hoover go to college?", "answer": ["Davidson College"]}
+{"question": "what is jamie oliver children names?", "answer": ["Petal Blossom Rainbow Oliver", "Poppy Honey Rosie Oliver", "Daisy Boo Pamela Oliver", "Buddy Bear Maurice Oliver"]}
+{"question": "where does bradley walsh live?", "answer": ["England"]}
+{"question": "who is the head coach of inter milan?", "answer": ["Andrea Stramaccioni"]}
+{"question": "where does the shannon river start and end?", "answer": ["Shannon Pot"]}
+{"question": "who did reese witherspoon get married to?", "answer": ["Ryan Phillippe"]}
+{"question": "where did dutch language come from?", "answer": ["Europeans"]}
+{"question": "what kind of money should i take to costa rica?", "answer": ["Costa Rican col\u00f3n"]}
+{"question": "where is the ufc headquarters?", "answer": ["Las Vegas"]}
+{"question": "who plays captain kirk in star trek?", "answer": ["William Shatner"]}
+{"question": "who does albert pujols play for 2012?", "answer": ["Los Angeles Angels of Anaheim"]}
+{"question": "what kind of government is sweden?", "answer": ["Representative democracy", "Unitary state", "Parliamentary system", "Constitutional monarchy", "Hereditary monarchy", "Multi-party system"]}
+{"question": "where was country singer george jones born?", "answer": ["Saratoga"]}
+{"question": "what did shakespeare become famous for?", "answer": ["Poet", "Playwright", "Dramatist", "Lyricist", "Author"]}
+{"question": "where does russia import from?", "answer": ["Uzbekistan"]}
+{"question": "what is the money of switzerland called?", "answer": ["Swiss franc"]}
+{"question": "what to see near grand canyon?", "answer": ["Grand Canyon National Park Superintendent's Residence", "Grand Canyon South Rim Ranger's Dormitory", "Grand Canyon Village Historic District", "Grand Canyon North Rim Headquarters", "Grandview Mine", "Grand Canyon Water Reclamation Plant", "Buckey O'Neill Cabin", "El Tovar Hotel", "Grand Canyon Depot"]}
+{"question": "when did the jews stop making animal sacrifices?", "answer": ["Yiddish Language"]}
+{"question": "what do people in australia speak?", "answer": ["Lojban", "Esperanto Language", "English Language"]}
+{"question": "what has ian somerhalder acted in?", "answer": ["Smallville", "The Vampire Diaries", "Lost", "Tell Me You Love Me", "Fearless", "Young Americans"]}
+{"question": "what movies did ron howard director?", "answer": ["How the Grinch Stole Christmas!"]}
+{"question": "what role did alexander hamilton play in the constitution?", "answer": ["Financier"]}
+{"question": "who is shakira married to?", "answer": ["Gerard Piqu\u00e9"]}
+{"question": "what did gerald r ford die from?", "answer": ["Cardiovascular disease"]}
+{"question": "what two continents is turkey on?", "answer": ["Europe", "Eurasia", "Asia"]}
+{"question": "where did kevin love go to college?", "answer": ["University of California, Los Angeles"]}
+{"question": "what type of government was formed when italy unified?", "answer": ["Parliamentary republic"]}
+{"question": "what was the ancient egyptians spoken language?", "answer": ["Egyptian Arabic"]}
+{"question": "where was the temple of karnak built?", "answer": ["Egypt", "Luxor Governorate"]}
+{"question": "who is the senior senator of louisiana?", "answer": ["Mary Landrieu"]}
+{"question": "what movies did morgan freeman star in?", "answer": ["10 Items or Less", "Batman Begins", "All About Us", "A Raisin in the Sun", "Bruce Almighty", "Amistad", "Brubaker", "An Unfinished Life", "A Man Called Adam", "Along Came a Spider"]}
+{"question": "who did john kennedy have affairs with?", "answer": ["william averell harriman appointed by john fitzgerald kennedy"]}
+{"question": "what type of money to take to cuba?", "answer": ["Cuban peso"]}
+{"question": "what currency should you take to morocco?", "answer": ["Moroccan dirham"]}
+{"question": "who is mary mcleod bethune for kids?", "answer": ["Educator"]}
+{"question": "what do they call money in japan?", "answer": ["Japanese yen"]}
+{"question": "what nationality is mother teresa?", "answer": ["India"]}
+{"question": "who is richard pryor son?", "answer": ["Franklin Pryor", "Steven Pryor", "Richard Pryor Jr.", "Rain Pryor", "Kelsey Pryor", "Elizabeth Pryor", "Renee Pryor"]}
+{"question": "what countries share borders with spain?", "answer": ["Perejil Island", "Portugal", "France", "Andorra", "Morocco", "Gibraltar"]}
+{"question": "what countries have english as their official language?", "answer": ["Canada", "Australia", "Kingdom of Great Britain", "United States of America", "United Kingdom", "Ireland", "New Zealand"]}
+{"question": "what international organizations is china part of?", "answer": ["United Nations", "G-20 major economies", "Caribbean Development Bank", "Asian Development Bank", "Shanghai Cooperation Organisation", "African Development Bank", "World Bank", "Asia-Pacific Economic Cooperation"]}
+{"question": "what county is west st paul in?", "answer": ["Dakota County"]}
+{"question": "what college did magic johnson play for?", "answer": ["Michigan State University"]}
+{"question": "who does donnie wahlberg play in the sixth sense?", "answer": ["Vincent Grey"]}
+{"question": "what did baron de montesquie influence?", "answer": ["charles-louis de secondat montesquieu influenced edward gibbon"]}
+{"question": "what do australians call bigfoot?", "answer": ["Waleed Aly"]}
+{"question": "who did carlos boozer play for?", "answer": ["Utah Jazz", "Cleveland Cavaliers"]}
+{"question": "what countries share a land border with indonesia?", "answer": ["Australia", "East Malaysia"]}
+{"question": "who owns the portland press herald?", "answer": ["Blethen Maine Newspapers, Inc."]}
+{"question": "what did albert speer design?", "answer": ["Deutsches Stadion", "Volkshalle", "Reich Chancellery", "Olympic Stadium"]}
+{"question": "who does jordan palmer play for?", "answer": ["Jacksonville Jaguars"]}
+{"question": "what art movement did leonardo da vinci belong to?", "answer": ["High Renaissance"]}
+{"question": "what time does american horror story air?", "answer": ["Tom Selleck"]}
+{"question": "what airport is near arlington tx?", "answer": ["Arlington Municipal Airport"]}
+{"question": "who did vasco de gama explore for?", "answer": ["Portugal"]}
+{"question": "what type of government does the us constitution set up?", "answer": ["Presidential system", "Federal republic", "Representative democracy", "Two-party system", "Constitutional republic", "Republic"]}
+{"question": "what team does heskey play for?", "answer": ["Newcastle Jets FC"]}
+{"question": "where did emperor hirohito live?", "answer": ["Japan"]}
+{"question": "what to do and see in vienna austria?", "answer": ["Belvedere, Vienna", "Hofburg Palace", "Prater", "St. Peter's Church", "St. Stephen's Cathedral, Vienna", "Sch\u00f6nbrunn Palace", "Jesuit Church, Vienna", "Karlskirche, Vienna", "Rathaus, Vienna", "Minoritenkirche, Vienna"]}
+{"question": "when did conflict start in ireland?", "answer": ["Viking invasion of Ireland"]}
+{"question": "when did the lakers 3 peat?", "answer": ["2000"]}
+{"question": "what bible do catholics follow?", "answer": ["Book of Nehemiah", "The Bible", "New Testament", "Old Testament"]}
+{"question": "what is there to do in peoria illinois?", "answer": ["Peoria Zoo", "Judge Flanagan Residence", "George L. Luthy Memorial Botanical Garden", "Lakeview Museum of Arts and Sciences", "WeaverRidge Golf Club", "Heart of Illinois Fair", "Wildlife Prairie State Park", "Par-A-Dice Hotel and Casino", "Peoria Civic Center", "O'Brien Field"]}
+{"question": "what language do british speak?", "answer": ["Scottish Gaelic language", "Scots Language", "Cornish Language", "Irish", "English Language", "Welsh Language", "Guern\u00e9siais", "Ulster Scots dialects", "J\u00e8rriais", "Manx Language"]}
+{"question": "what makes elvis presley famous?", "answer": ["Singer"]}
+{"question": "what high school did lil wayne graduate from?", "answer": ["Mcmain Magnet Secondary School"]}
+{"question": "who is washington redskins backup qb?", "answer": ["Rex Grossman"]}
+{"question": "what language do people speak in the netherlands?", "answer": ["Frisian languages", "West Flemish", "Dutch Language"]}
+{"question": "what are the major languages spoken in greece?", "answer": ["Albanian language", "Greek Language"]}
+{"question": "what movies has john williams score?", "answer": ["A.I. Artificial Intelligence", "Always", "Catch Me If You Can", "1941", "Daddy-O", "Amistad", "Close Encounters of the Third Kind", "E.T. the Extra-Terrestrial", "Empire of the Sun", "Earthquake"]}
+{"question": "what to do in richardson dallas?", "answer": ["Wizard's Sports Cafe"]}
+{"question": "what type of artist is henri matisse?", "answer": ["Sculpture", "Printmaking", "Collage", "Painting", "Drawing"]}
+{"question": "what was the first book charles dickens wrote?", "answer": ["Oliver Twist"]}
+{"question": "what books did agatha christie wrote?", "answer": ["And Then There Were None", "Le Grand alibi", "Ten Little Indians", "Appointment with Death", "Desyat Negrityat", "The Man in the Brown Suit", "Witness for the Prosecution"]}
+{"question": "what school did michael jordan attend?", "answer": ["University of North Carolina at Chapel Hill", "Emsley A. Laney High School"]}
+{"question": "which continental congress approve the declaration of independence?", "answer": ["Second Continental Congress"]}
+{"question": "what year does hitler die?", "answer": ["Hitler and His Generals: Military Conferences 1942-1945"]}
+{"question": "where is mount st helens volcano?", "answer": ["Skamania County"]}
+{"question": "what shows are shot in new york?", "answer": ["Flight of the Conchords", "The Stand"]}
+{"question": "what book did tupac write?", "answer": ["The Rose That Grew from Concrete"]}
+{"question": "what language do chinese people write in?", "answer": ["Traditional Chinese characters", "Chinese", "Simplified Chinese character", "'Phags-pa script", "N\u00fcshu script", "Chinese characters"]}
+{"question": "what was robert burns famous for?", "answer": ["Poet"]}
+{"question": "when did william mckinley died?", "answer": ["9/14/1901"]}
+{"question": "how deep is lake merritt oakland?", "answer": ["Oakland"]}
+{"question": "who is the next governor of indiana?", "answer": ["Mitch Daniels"]}
+{"question": "what are the important holidays of islam?", "answer": ["Eid al-Fitr", "Ramadan", "Eid al-Adha"]}
+{"question": "what type of music did claude debussy play?", "answer": ["Ballet", "French opera", "Art song", "Incidental music", "Classical music", "20th-century classical music"]}
+{"question": "when was the last time the toronto maple leafs were in the stanley cup finals?", "answer": ["1967 Stanley Cup Finals"]}
+{"question": "what currency does russia use 2012?", "answer": ["Russian ruble"]}
+{"question": "what team is hank baskett on 2010?", "answer": ["Philadelphia Eagles"]}
+{"question": "what are the two official languages of paraguay?", "answer": ["Paraguayan Guaran\u00ed", "Spanish Language"]}
+{"question": "who is hammurabi and what did he do?", "answer": ["Monarch"]}
+{"question": "what state is the steelers from?", "answer": ["Pittsburgh"]}
+{"question": "what college did sir isaac newton go to?", "answer": ["The King's School, Grantham", "Trinity College, Cambridge"]}
+{"question": "what are the school colors for harvard university?", "answer": ["Crimson"]}
+{"question": "where is the university of the rockies located?", "answer": ["United States of America", "Colorado", "Colorado Springs"]}
+{"question": "what disease does robin roberts have?", "answer": ["Breast cancer"]}
+{"question": "what was the capital city of the east roman empire?", "answer": ["Constantinople"]}
+{"question": "who plays edward scissorhands?", "answer": ["Johnny Depp"]}
+{"question": "what does joey jordison play in slipknot?", "answer": ["Drums"]}
+{"question": "what kind of language does turkey speak?", "answer": ["Turkish Language"]}
+{"question": "what was lebron james first team?", "answer": ["Cleveland Cavaliers"]}
+{"question": "who fought the battle of gettysburg?", "answer": ["Confederate States of America", "United States of America"]}
+{"question": "who is the coach of the sf giants?", "answer": ["Tim Flannery"]}
+{"question": "where can you go on eco holidays in the uk?", "answer": ["World Bank, World Development Indicators, Life Expectancy"]}
+{"question": "who was the first president of the afl?", "answer": ["Bud Adams", "Lamar Hunt"]}
+{"question": "where did giuliana rancic grow up?", "answer": ["Naples"]}
+{"question": "what are the major cities in ukraine?", "answer": ["Kiev"]}
+{"question": "which university did michael bay graduated from?", "answer": ["Crossroads School", "Pasadena's Art Center College of Design", "Wesleyan University", "Art Center College of Design"]}
+{"question": "what did queen victoria say about the suffragettes?", "answer": ["I am every day more convinced that we women, if we are to be good women, feminine and amiable and domestic, are not fitted to reign; at least it is they that drive themselves to the work which it entails."]}
+{"question": "what is st anthony patron saint of?", "answer": ["Padua"]}
+{"question": "who does brian dawkins play for 2011?", "answer": ["Denver Broncos"]}
+{"question": "what movies did tupac star in?", "answer": ["Nothing but Trouble"]}
+{"question": "what form of currency does china have?", "answer": ["Renminbi"]}
+{"question": "who plays kenneth?", "answer": ["Jack McBrayer"]}
+{"question": "what league are the indianapolis colts in?", "answer": ["AFC South"]}
+{"question": "what country did magellan represent?", "answer": ["Portugal"]}
+{"question": "where is perpignan located?", "answer": ["France"]}
+{"question": "who did kim richards marry?", "answer": ["Greg Davis", "John Jackson", "G. Monty Brinson"]}
+{"question": "what happened in bosnia in the 90s?", "answer": ["Yugoslav Wars", "Operation Tiger", "Croat\u2013Bosniak War", "Operation Deny Flight", "Operation Summer '95", "Operation Sana", "Bosnian War", "Operation Mistral", "Battle of the Bosnian Highlands", "NATO intervention in Bosnia and Herzegovina"]}
+{"question": "when's the last time the steelers won the superbowl?", "answer": ["Super Bowl XLIII"]}
+{"question": "where does archbishop desmond tutu live?", "answer": ["South Africa"]}
+{"question": "where english is spoken?", "answer": ["Canada", "Australia", "South Africa", "Zambia", "United Kingdom", "Zimbabwe", "Uganda", "New Zealand", "Turks and Caicos Islands", "Tanzania"]}
+{"question": "where is giza pyramids located?", "answer": ["Egypt", "Giza Governorate"]}
+{"question": "what is the zip code for midland tx?", "answer": ["79702", "79710", "79708", "79706", "79707", "79704", "79705", "79711", "79703", "79701"]}
+{"question": "what states make up the midwest us?", "answer": ["Wisconsin", "North Dakota", "Kansas", "Council Grove", "Nebraska", "Indiana", "Ohio"]}
+{"question": "where do the florida marlins play spring training?", "answer": ["University of Florida"]}
+{"question": "what instruments does justin bieber use?", "answer": ["guitar", "Piano", "trumpet", "Drums"]}
+{"question": "what language does australians speak?", "answer": ["Greek Language", "English Language", "Italian Language", "Chinese language"]}
+{"question": "who did annie oakley married?", "answer": ["Frank E. Butler"]}
+{"question": "who has played lex luthor?", "answer": ["Anthony LaPaglia", "Kevin Spacey", "Clancy Brown", "James Marsters", "Gene Hackman"]}
+{"question": "where does the zambezi river start?", "answer": ["Mwinilunga"]}
+{"question": "where will tebow go in 2013?", "answer": ["New York Jets"]}
+{"question": "what is the nigeria time?", "answer": ["West Africa Time", "UTC+01:00"]}
+{"question": "where did they find jenni rivera's body?", "answer": ["Iturbide, Nuevo Le\u00f3n"]}
+{"question": "what university did romney graduated from?", "answer": ["Stanford University", "Cranbrook Schools", "Harvard Law School", "Harvard Business School", "Harvard University", "Brigham Young University"]}
+{"question": "where is the time zone line in south dakota?", "answer": ["Mountain Time Zone", "Central Time Zone", "UTC\u221207:00", "UTC\u221206:00"]}
+{"question": "where is jason mraz from?", "answer": ["Mechanicsville"]}
+{"question": "what killed john bonham?", "answer": ["Inhalation of vomit"]}
+{"question": "what industry does walmart operate in?", "answer": ["Department Stores", "Retail", "Variety Stores"]}
+{"question": "what county is texarkana arkansas in?", "answer": ["Miller County"]}
+{"question": "what team was chris paul on?", "answer": ["Los Angeles Clippers"]}
+{"question": "what country was slovakia?", "answer": ["Czechoslovakia"]}
+{"question": "what music period did beethoven live in?", "answer": ["Opera", "Classical music"]}
+{"question": "what did laura ingalls wilder wrote?", "answer": ["On the Banks of Plum Creek", "The Long Winter", "Farmer Boy", "Little House in the Big Woods", "West from Home", "These Happy Golden Years", "The First Four Years", "Little Town on the Prairie", "By the Shores of Silver Lake", "On the Way Home"]}
+{"question": "what type of government system does italy have?", "answer": ["Constitutional republic", "Parliamentary republic", "Unitary state"]}
+{"question": "what did john irving wrote?", "answer": ["Trying to Save Piggy Sneed", "The Fourth Hand", "The Cider House Rules", "The 158-Pound Marriage", "The World According to Garp", "The Hotel New Hampshire", "A Widow for One Year", "A Prayer for Owen Meany", "The Water-Method Man", "Until I Find You"]}
+{"question": "what is the national flower of hawaii?", "answer": ["Hawaiian hibiscus"]}
+{"question": "what did alice paul accomplish?", "answer": ["Silent Sentinels", "National Woman's Party"]}
+{"question": "where to go fishing in roanoke va?", "answer": ["Rainbow Bluff Expedition"]}
+{"question": "what languages do they speak in costa rica?", "answer": ["Spanish Language"]}
+{"question": "where did hank marvin come from?", "answer": ["Newcastle upon Tyne"]}
+{"question": "when did chipper jones get drafted?", "answer": ["1990 Major League Baseball Draft"]}
+{"question": "what part did winona ryder play in star trek?", "answer": ["Amanda Grayson"]}
+{"question": "what did president carter do in office?", "answer": ["Social development", "Human rights", "Economic development"]}
+{"question": "what war did hitler lose?", "answer": ["World War II"]}
+{"question": "where did jovan belcher kill himself?", "answer": ["Kansas City"]}
+{"question": "where is the chernobyl nuclear power plant?", "answer": ["Prypiat", "Ukrainian SSR", "Chernobyl Nuclear Power Plant", "Chernobyl"]}
+{"question": "where did clay matthews go to school?", "answer": ["Agoura High School", "University of Southern California"]}
+{"question": "what time is it in texas houston right now?", "answer": ["Central Time Zone"]}
+{"question": "who is princess leia in star wars?", "answer": ["Carrie Fisher"]}
+{"question": "what is the political structure of china?", "answer": ["Single-party state", "Communist state", "Socialist state"]}
+{"question": "what is new york city airport?", "answer": ["Flushing Airport", "Mitchel Air Force Base", "Downtown Manhattan Heliport", "LaGuardia Airport", "John F. Kennedy International Airport", "New York Skyports Inc. Seaplane Base", "East 34th Street Heliport"]}
+{"question": "what language brazil speak?", "answer": ["Brazilian Portuguese", "Portuguese Language", "Italian Language"]}
+{"question": "who played obi wan in episode 2?", "answer": ["Ewan McGregor"]}
+{"question": "where did venus williams come from?", "answer": ["Lynwood"]}
+{"question": "what currency is used in panama?", "answer": ["United States dollar", "Panamanian balboa"]}
+{"question": "where does the zambezi river originate?", "answer": ["Tanzania"]}
+{"question": "what countries do the united nations help?", "answer": ["Afghanistan", "Albania", "Angola", "Algeria", "Andorra", "Austria", "Australia", "Antigua and Barbuda", "Armenia", "Argentina"]}
+{"question": "what team did ronaldo play for in 2003?", "answer": ["Real Madrid C.F."]}
+{"question": "where does robin williams live 2011?", "answer": ["San Francisco"]}
+{"question": "who played jacob black in twilight?", "answer": ["Taylor Lautner"]}
+{"question": "when was president john adams elected?", "answer": ["John Adams Presidential Campaign, 1796", "John Adams Presidential Campaign, 1800"]}
+{"question": "who does lee clark manager?", "answer": ["Birmingham City F.C."]}
+{"question": "which airport to fly into in buenos aires?", "answer": ["Aeroparque Jorge Newbery", "Ministro Pistarini International Airport", "Don Torcuato Airport"]}
+{"question": "where to get a marriage license in long island?", "answer": ["United States District Court for the Eastern District of New York"]}
+{"question": "what team did adrian peterson play for in college?", "answer": ["University of Oklahoma"]}
+{"question": "where does name pennsylvania come from?", "answer": ["William Penn"]}
+{"question": "what kind of money do they use in germany?", "answer": ["Euro"]}
+{"question": "who plays blaine in batman?", "answer": ["Him/Herself"]}
+{"question": "what did james chadwick invent?", "answer": ["Neutron"]}
+{"question": "what language does australia use?", "answer": ["English Language"]}
+{"question": "what position did vince lombardi play in college?", "answer": ["Right Guard"]}
+{"question": "what kind of government did the united states have after the revolution?", "answer": ["Presidential system", "Federal republic", "Representative democracy", "Two-party system", "Constitutional republic", "Republic"]}
+{"question": "who did veronica lake mary?", "answer": ["Andr\u00e9 De Toth", "Joseph A. McCarthy", "Robert Carleton-Munro", "John S. Detlie"]}
+{"question": "who did sir francis drake marry?", "answer": ["Mary Newman", "Elizabeth Sydenham"]}
+{"question": "who plays stephanie plum in one for the money?", "answer": ["Katherine Heigl"]}
+{"question": "what did the ancient romans speak?", "answer": ["Latin Language"]}
+{"question": "what does ringo sing?", "answer": ["Yellow Submarine", "Pinocchio Medley (Do You See the Noses Growing?): Desolation Theme / When You Wish Upon a Star", "Good Night", "I Shall Be Released", "Roll Over Beethoven", "Tommy's Holiday Camp", "Sweet Little Sixteen", "California Calling", "Honey Don't", "Don\u2019t Pass Me By"]}
+{"question": "where was st. lucy born?", "answer": ["Syracuse"]}
+{"question": "what type of government does australia have?", "answer": ["Parliamentary system", "Federation", "Constitutional monarchy"]}
+{"question": "where is the university of maryland medical school?", "answer": ["Maryland", "United States of America", "Baltimore"]}
+{"question": "what objects did galileo see with his telescope?", "answer": ["Ganymede", "Callisto", "Europa", "Galilean moons", "Io"]}
+{"question": "where did salvador dali study art?", "answer": ["Real Academia de Bellas Artes de San Fernando"]}
+{"question": "who was the father of king george vi?", "answer": ["George V"]}
+{"question": "what national team does cristiano ronaldo play for?", "answer": ["Portugal national football team"]}
+{"question": "what flower is on the oklahoma quarter?", "answer": ["Scissor-tailed Flycatcher"]}
