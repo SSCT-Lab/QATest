@@ -10,14 +10,19 @@
 You can create the environment through [Conda](https://docs.conda.io/en/latest/):
 
 ```shell
-conda create -n gentle python=3.6
+conda create -n qatest python=3.6
 conda activate gentle
 pip install -r requirements.txt
 ```
 
+
 ## Generating tests with QATest
 
 ```sh
-python main.py --dataset boolq --system unifiedqa --strategy qatest
+# Data preprocessing, get 500 test cases for generation:
+python preprocess.py --dataset squad --system unifiedqa
+
+# generating tests:
+python main.py --dataset squad --system unifiedqa --strategy qatest
 ```
 

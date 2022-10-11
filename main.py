@@ -10,7 +10,7 @@ from convert.squad1_convert import *
 from convert.race_convert import *
 from convert.qca_convert import *
 from convert.boolq_convert import *
-from convert.webquestions_convert import *
+#from convert.webquestions_convert import *
 import lib
 import random
 import numpy as np
