@@ -4,7 +4,7 @@ from convert.squad1_convert import *
 from convert.race_convert import *
 from convert.qca_convert import *
 from convert.boolq_convert import *
-#from convert.webquestions_convert import *
+from convert.webquestions_convert import *
 
 
 if __name__ == '__main__':
